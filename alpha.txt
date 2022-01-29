@@ -1,1 +1,1 @@
- is alpha a
+ is alpha a +  b of new
